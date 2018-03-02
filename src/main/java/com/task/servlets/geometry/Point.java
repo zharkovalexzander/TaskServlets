@@ -1,4 +1,4 @@
-package com.task.servlets;
+package com.task.servlets.geometry;
 
 public class Point {
     private int x;

@@ -7,7 +7,7 @@
     <display-name>Archetype Created Web Application</display-name>
     <servlet>
         <servlet-name>TaskServlet</servlet-name>
-        <servlet-class>com.task.servlets.ConnectionServlet</servlet-class>
+        <servlet-class>com.task.servlets.servlet.ConnectionServlet</servlet-class>
     </servlet>
     <servlet-mapping>
         <servlet-name>TaskServlet</servlet-name>

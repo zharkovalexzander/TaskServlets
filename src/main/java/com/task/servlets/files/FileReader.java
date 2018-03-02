@@ -1,4 +1,6 @@
-package com.task.servlets;
+package com.task.servlets.files;
+
+import com.task.servlets.geometry.Point;
 
 import java.io.File;
 import java.io.IOException;

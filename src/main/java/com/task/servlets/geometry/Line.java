@@ -1,4 +1,4 @@
-package com.task.servlets;
+package com.task.servlets.geometry;
 
 public class Line {
     private int A, B, C;
